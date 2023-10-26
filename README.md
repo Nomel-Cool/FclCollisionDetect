@@ -1,0 +1,2 @@
+# FclCollisionDetect
+使用增量法构造三维凸包，再使用Fcl库构造Convex类执行碰撞检测
